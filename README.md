@@ -445,6 +445,7 @@
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
+* MUNDO DE TI tem seus momentos...
 
 ## How to contribute
 
@@ -452,7 +453,3 @@
 * Help me to review [pending submissions](https://github.com/danistefanovic/build-your-own-x/issues) by leaving comments and "reactions"
 
 ## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Daniel Stefanovic](http://twitter.com/danistefanovic) has waived all copyright and related or neighboring rights to this work.
